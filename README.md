@@ -25,10 +25,12 @@ WordPress so it is easy for everyone to add new functionality to this.
 
 My Version includes:
 
--> A Blog
--> Drag and Drop DIVI Builder
--> Custom Post Type of Portfolio
--> Easily Editable for more Desired Functionality
+<ul>
+<li>A Blog</li>
+<li>Drag and Drop DIVI Builder</li>
+<li>Custom Post Type of Portfolio</li>
+<li>Easily Editable for more Desired Functionality</li>
+</ul>
 
 I created this theme in around 3 days. All the real credits go to the original author/creator of this template who did this using Bootstrap.
 
