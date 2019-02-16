@@ -34,4 +34,4 @@ My Version includes:
 
 I created this theme in around 3 days. All the real credits go to the original author/creator of this template who did this using Bootstrap.
 
-I am available for Custom Development, Bugs fixing (if found any ) and anything related to this theme. Contact me personally on <a href="https://twitter.com/wpcoderpro">Twitter</a>.
+I am available for Custom Development, Bugs fixing (if found any ) and anything related to this theme. Contact me personally on <a href="https://twitter.com/affuxo">Twitter</a>.
